@@ -32,7 +32,7 @@ Se requiere el análisis analítico del circuito mostrado en la figura 3.1., med
 
 Procedimiento:
 
-![3](https://user-images.githubusercontent.com/117947198/206635289-54a4225e-17c1-4fe6-aff3-64cc0afe2131.png)
+![WhatsApp Image 2022-12-09 at 10 16 12](https://user-images.githubusercontent.com/117947198/206735435-0c13756b-f9ed-4cef-9134-f0ba0f0d56f1.jpeg)
 
 1.5.2. Mida cada una de las corrientes de malla y anote los resultados en la tabla 3.1
 
@@ -43,9 +43,7 @@ Despues de realizar el análisis de nodos se determino que la corriente obtenida
 
 1.5.3. Simule en el software Thinkercad, el circuito de la figura 3.1, obteniendo los valores de las corrientes de nodos. Anote los resultados en la tabla 3.1
 
-![5](https://user-images.githubusercontent.com/117947198/206640666-57483010-2629-420f-9860-b39cab90c530.png)
-
-![6](https://user-images.githubusercontent.com/117947198/206640680-d63626a6-1023-4465-b4f2-dc36a12d313a.png)
+![WhatsApp Image 2022-12-09 at 10 03 50](https://user-images.githubusercontent.com/117947198/206735506-46b2c694-0a60-410e-9728-8abc23b5f418.jpeg)
 
 1.6 CONCLUSIONES
 
