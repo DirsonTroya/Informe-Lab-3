@@ -34,7 +34,7 @@ Procedimiento:
 
 ![WhatsApp Image 2022-12-09 at 10 27 08](https://user-images.githubusercontent.com/117947198/206736112-1ad81af3-2b48-4c14-946a-80173e70d608.jpeg)
 
-1.5.2. Mida cada una de las corrientes de malla y anote los resultados en la tabla 3.1
+1.5.2. Mida cada una de los voltajes de nodo y anote los resultados en la tabla 3.1
 
 ![WhatsApp Image 2022-12-09 at 10 27 10](https://user-images.githubusercontent.com/117947198/206736216-9c2ab4f1-8099-420d-b837-6586b7ec6f15.jpeg)
 
