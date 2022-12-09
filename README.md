@@ -49,6 +49,10 @@ Despues de realizar el análisis de nodos se determino que la corriente obtenida
 
 Se comprobo la ley de corrientes de kirchoff mediante el análisis de nodos, de tal forma que se determinó satisfactoriamente la corriente de los nodos que circula por cada malla, reconociendo las corrientes de los nodos se puede determinar también los voltajes en las recistencias y demás incógnitas.
 
-1.7 BIBLIOGRAFÍA
+1.7 VIDEO
+
+Link de Youtube: https://www.youtube.com/watch?v=l7Yfyv_O_OU&t=551s
+
+1.8 BIBLIOGRAFÍA
 
 Robert L. Boylestad. 2004. "Introducción al análisis de circuitos". Pearson Educación
