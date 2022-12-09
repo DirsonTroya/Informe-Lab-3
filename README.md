@@ -32,11 +32,11 @@ Se requiere el análisis analítico del circuito mostrado en la figura 3.1., med
 
 Procedimiento:
 
-![WhatsApp Image 2022-12-09 at 10 16 12](https://user-images.githubusercontent.com/117947198/206735435-0c13756b-f9ed-4cef-9134-f0ba0f0d56f1.jpeg)
+![WhatsApp Image 2022-12-09 at 10 27 08](https://user-images.githubusercontent.com/117947198/206736112-1ad81af3-2b48-4c14-946a-80173e70d608.jpeg)
 
 1.5.2. Mida cada una de las corrientes de malla y anote los resultados en la tabla 3.1
 
-![4](https://user-images.githubusercontent.com/117947198/206639428-809c1bab-55c6-4859-a35f-ddbc93139a2f.png)
+![WhatsApp Image 2022-12-09 at 10 27 10](https://user-images.githubusercontent.com/117947198/206736216-9c2ab4f1-8099-420d-b837-6586b7ec6f15.jpeg)
 
 Despues de realizar el análisis de nodos se determino que la corriente obtenida llega a variar con una pequeña diferencia 
 
